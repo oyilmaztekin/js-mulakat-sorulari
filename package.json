@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/oyilmaztekin/js-mulakat-sorulari/issues"
   },
-  "homepage": "https://github.com/oyilmaztekin/js-mulakat-sorulari#readme"
+  "homepage": "https://github.com/oyilmaztekin/js-mulakat-sorulari#readme",
+  "devDependencies": {
+    "jest": "^29.3.1"
+  }
 }
