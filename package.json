@@ -1,0 +1,19 @@
+{
+  "name": "js-mulakat-sorulari",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oyilmaztekin/js-mulakat-sorulari.git"
+  },
+  "author": "özer yılmaztekin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/oyilmaztekin/js-mulakat-sorulari/issues"
+  },
+  "homepage": "https://github.com/oyilmaztekin/js-mulakat-sorulari#readme"
+}
